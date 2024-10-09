@@ -1,2 +1,1 @@
-- 👋 Olá a gente é o grupo de alunos participantes do programa de Extensão PETI - UESB. O objetivo desse github é o armazenamento dos codigos dos programas criados por nós alunos para o
-- o desenvolvimento de algum projeto especificado pelo tutor
+Bem vindos ao repositório do grupo PETI - Computação da UESB de Vitória da Conquista.
